@@ -1,14 +1,15 @@
-Forage - Starter Code
+Forage - Solution Code
 ==================================
 
-Starter code for the fifth independent project for Android Basics in Kotlin. This project pairs
-with Unit 5 of Android Basics in Kotlin
+Solution code for the fifth independent project for Android basics in kotlin
 
 Introduction
 ------------
 
-This is the starter code for the Forage app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 5 of Android Basics in Kotlin.
+The completed Forage app allows users to keep track of items, food for example,
+that they've foraged for in nature. This data is persisted between sessions using Room.
+It implements knowledge of Room and performing read, write, update, and delete operations
+on a database to implement persistence in the Forage app.
 
 Pre-requisites
 --------------
